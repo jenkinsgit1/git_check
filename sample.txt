@@ -1,0 +1,10 @@
+ Volume in drive E is Standalone
+ Volume Serial Number is C8C1-6298
+
+ Directory of E:\Git\Sample
+
+03/24/2022  08:57 PM    <DIR>          .
+03/24/2022  08:56 PM    <DIR>          ..
+03/24/2022  08:57 PM                 0 sample.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  486,416,973,824 bytes free
